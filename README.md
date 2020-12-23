@@ -1,8 +1,10 @@
 # vue-icons-component
 
-一个svg组件，支持自动导入 svg 图标至项目，方法参考自：[手摸手，带你优雅的使用 icon](https://juejin.cn/post/6844903517564436493#heading-11)
+一个 svg 组件，支持自动导入 svg 图标至项目，方法参考自：[手摸手，带你优雅的使用 icon](https://juejin.cn/post/6844903517564436493#heading-11)
 
-安装 [svg-sprite-loader](https://github.com/JetBrains/svg-sprite-loader)
+## [svg-sprite-loader](https://github.com/JetBrains/svg-sprite-loader)
+
+安装
 
 ```sh
 npm install svg-sprite-loader -D
