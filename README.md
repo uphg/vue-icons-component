@@ -1,24 +1,13 @@
 # vue-icons-component
 
-## Project setup
-```
-yarn install
+一个svg组件，支持自动导入 svg 图标至项目，方法参考自：[手摸手，带你优雅的使用 icon](https://juejin.cn/post/6844903517564436493#heading-11)
+
+安装 [svg-sprite-loader](https://github.com/JetBrains/svg-sprite-loader)
+
+```sh
+npm install svg-sprite-loader -D
+# via yarn
+yarn add svg-sprite-loader -D
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+配置参考 `vue.config.js`
